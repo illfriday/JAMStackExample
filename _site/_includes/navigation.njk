@@ -1,0 +1,33 @@
+<nav class="site-nav family-sans navbar navbar-expand-md bg-dark navbar-dark sticky-top py-0">
+  <div class="container-fluid">
+    <button type="button" class="navbar-toggler my-2 my-md-0" data-toggle="collapse" data-target="#myTogglerNav" aria-controls="myTogglerNav" aria-label="Toggle Navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-brand text-uppercase">
+      <a href="/" class="text-light"><i class="fas fa-cube mr-2"></i>JAMStack</a>
+    </div>
+
+    <div class="collapse navbar-collapse text-center mt-0" id="myToggleNavbar">
+      <div class="navbar-nav ml-auto font-weight-regular text-uppercase">
+        <a href="/" class="nav-item nav-link"><i class="fas fa-home"></i></a>
+
+        <a href="{{nav.url}}" class="nav-item nav-link">{{nav.key}}</a>
+
+        <a href="/posts/0" class="nav-item nav-link">posts</a>
+
+        <div class="nav-item dropdown">
+          <a href="" class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded-="false">
+            <i class="fas fa-user" ></i>
+          </a>
+          <div class="dropdown-menu dropdown-menu-right">
+            <a href="" class="dropdpwn-item text-capitalize">About Me</a>
+            <div class="dropdown-divider"></div>
+
+             <a href="" target="_blank" class="dropdpwn-item text-capitalize"><i class="text-seconday mr-2"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
