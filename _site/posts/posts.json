@@ -1,3 +1,8 @@
 {
+<<<<<<< Updated upstream
   "layout": "page"
+=======
+  "layout": "page-post",
+  "tags": "post"
+>>>>>>> Stashed changes
 }

@@ -1,8 +1,22 @@
+<<<<<<< Updated upstream
 # Chrome Developer Extensions for Designers/Developers
 
 ![/images/posts/chromeextensions.png](/images/posts/chromeextensions.png)
 
 _Google Chrome Extensions can help you take care of certain tasks quickly. Here's a quick review of some of my favorite extensions for web design and development._
+=======
+---
+title: Chrome Developer Extensions for Designers/Developers
+hero: /images/posts/chromeextensions.png
+thumbnail: /images/posts/chromeextensions_tn.png
+summary: "Google Chrome Extensions can help you take care of certain tasks quickly. Here's a quick review of some of my favorite extensions for web design and development."
+tags:
+  - post
+  - chrome
+  - extensions
+  - javascript
+---
+>>>>>>> Stashed changes
 
 ## Responsive Inspector
 
